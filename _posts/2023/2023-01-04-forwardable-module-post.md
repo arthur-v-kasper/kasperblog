@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Another Fucking Post
-description: Blogs need to have more than one post, so here's another fucking one.
+title: Forwardable Module (Ruby)
+description: Nota simples de como usar o forwardable.
 ---
 
 {: .large}
