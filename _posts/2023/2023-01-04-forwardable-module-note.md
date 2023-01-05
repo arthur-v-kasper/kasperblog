@@ -2,6 +2,7 @@
 layout: post
 title: [RUBY] Forwardable Module
 description: Nota de como usar o Forwardable do ruby.
+typora-root-url: ../../
 ---
 
 {: .large}
