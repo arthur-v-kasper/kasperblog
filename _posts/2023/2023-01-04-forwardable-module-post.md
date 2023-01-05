@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [RUBY] Forwardable Module
+title: Forwardable Module (Ruby)
 description: Nota de como usar o Forwardable do ruby.
 typora-root-url: ../../
 ---
