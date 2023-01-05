@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Forwardable Module (Ruby)
-description: Nota de como usar o Forwardable do ruby.
-typora-root-url: ../../
+title: Another Fucking Post
+description: Blogs need to have more than one post, so here's another fucking one.
 ---
 
 {: .large}
